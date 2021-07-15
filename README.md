@@ -7,5 +7,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## How to Contribute
+fork, clone, branch, merge, deploy and package
 
 ## Deployment
